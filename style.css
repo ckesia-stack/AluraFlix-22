@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(0, 0, 0, 0.997);
+color: rgb(255, 247, 7);
+font-family: 'Times New Roman';
+margin:0px;
+}
+h1{
+   color:lime;
+   font-size: 40px;
+}
+p{
+    font-size: 25px;
+}
+header{
+border-bottom: solid 3x rgb(255, 5, 159);
+margin: 2px;
+padding: 10px;
+color: rgb(255, 1, 1);
+}
+.chamada{
+    background-color: rgb(138, 5, 133);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
